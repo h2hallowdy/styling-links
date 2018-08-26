@@ -1,0 +1,33 @@
+.button-register {
+    background: #496cca;
+    text-decoration: none;
+    color: #FFF;
+    font-family: Arial, sans-serif;
+    padding: 9px 20px;
+}
+
+.button-register:hover {
+    background-color: #294ca9;
+}
+
+.default-link {
+    color:#496cca;
+}
+
+.default-link:link {
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.default-link:visited {
+    color: #496cca;
+}
+
+.default-link:hover {
+    text-decoration: underline;
+}
+
+.default-link:active {
+    color: yellow;
+}
+
